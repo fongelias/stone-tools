@@ -1,3 +1,5 @@
 node_modules/
 
 stones.js
+
+.nyc_output/
