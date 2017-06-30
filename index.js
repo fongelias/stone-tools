@@ -1,1 +1,1 @@
-export * from './stones';
+module.exports = require('./stones');
